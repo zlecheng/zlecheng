@@ -1,7 +1,9 @@
-## Hi there 👋
+## 社交 👋
+- 🏖️ [博客园](https://www.cnblogs.com/sxdpanda)
+- 🏖️ [掘金](https://juejin.cn/user/1574156383828343)
+- 🏖️ [语雀](https://www.yuque.com/sxd_panda)
 
-
-**sxdPanda/sxdPanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **sxdPanda/sxdPanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
